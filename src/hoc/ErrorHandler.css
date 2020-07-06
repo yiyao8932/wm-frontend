@@ -1,0 +1,17 @@
+.error {
+    position: absolute;
+    width: 261px;
+    height: 51px;
+    left: 16px;
+    top: 315px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #FF4D4F;
+}

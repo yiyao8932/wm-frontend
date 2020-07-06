@@ -1,0 +1,69 @@
+.time-group-first {
+    position: absolute;
+    width: 150px;
+    height: 54px;
+    left: 16px;
+    top: 170px;
+}
+
+.time-group-second {
+    position: absolute;
+    width: 150px;
+    height: 52px;
+    left: 184px;
+    top: 170px;
+}
+
+.clock-in {
+    position: absolute;
+    height: 26px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 26px/2 - 14px);
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+
+    color: #777777;
+}
+
+
+.clock-out {
+    position: absolute;
+    height: 26px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 26px/2 - 13px);
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+
+
+    color: #777777;
+}
+
+.time {
+    position: absolute;
+    height: 24px;
+    left: 0%;
+    top: calc(50% - 24px/2 + 15px);
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+
+
+    color: #777777;
+}
